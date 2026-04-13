@@ -123,7 +123,7 @@ pip install -r requirements.txt
 
 ---
 
-### 2. Set API Key (if using OpenAI)
+### 2. Set API Key (by using OpenAI)
 
 ```bash
 $env:OPENAI_API_KEY="your_api_key_here"
